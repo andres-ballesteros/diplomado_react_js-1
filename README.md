@@ -2,9 +2,8 @@
 
 en este proyecto se busca aprende de Js y de React Js 
 ## participantes
-
-- [https://github.com/Yursksf1](Yurley Sanchez)
 - Wilfer Acosta
+- Yurley Sanchez
 - Kevinvalderrama518
 - Julio Cesar Alarcon https://github.com/JulioCesarAlarconUrazan/diplomadoReactJs
 -Andres Parra
@@ -14,3 +13,4 @@ en este proyecto se busca aprende de Js y de React Js
 - EduCnz4
 - Diego Meneses
 Wilfer Acosta
+andres-ballesteros
